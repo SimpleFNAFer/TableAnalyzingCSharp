@@ -1,0 +1,10 @@
+E:\Настя\AppProjectsVS\TableAnalizing\bin\Debug\TableAnalizing.exe.config
+E:\Настя\AppProjectsVS\TableAnalizing\bin\Debug\TableAnalizing.exe
+E:\Настя\AppProjectsVS\TableAnalizing\bin\Debug\TableAnalizing.pdb
+E:\Настя\AppProjectsVS\TableAnalizing\obj\Debug\TableAnalizing.csprojAssemblyReference.cache
+E:\Настя\AppProjectsVS\TableAnalizing\obj\Debug\TableAnalizing.Form1.resources
+E:\Настя\AppProjectsVS\TableAnalizing\obj\Debug\TableAnalizing.Properties.Resources.resources
+E:\Настя\AppProjectsVS\TableAnalizing\obj\Debug\TableAnalizing.csproj.GenerateResource.cache
+E:\Настя\AppProjectsVS\TableAnalizing\obj\Debug\TableAnalizing.csproj.CoreCompileInputs.cache
+E:\Настя\AppProjectsVS\TableAnalizing\obj\Debug\TableAnalizing.exe
+E:\Настя\AppProjectsVS\TableAnalizing\obj\Debug\TableAnalizing.pdb
